@@ -1,0 +1,15 @@
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\bin\Debug\net6.0\Instrucoes.exe
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\bin\Debug\net6.0\Instrucoes.deps.json
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\bin\Debug\net6.0\Instrucoes.runtimeconfig.json
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\bin\Debug\net6.0\Instrucoes.dll
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\bin\Debug\net6.0\ref\Instrucoes.dll
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\bin\Debug\net6.0\Instrucoes.pdb
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\obj\Debug\net6.0\Instrucoes.csproj.AssemblyReference.cache
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\obj\Debug\net6.0\Instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\obj\Debug\net6.0\Instrucoes.AssemblyInfoInputs.cache
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\obj\Debug\net6.0\Instrucoes.AssemblyInfo.cs
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\obj\Debug\net6.0\Instrucoes.csproj.CoreCompileInputs.cache
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\obj\Debug\net6.0\Instrucoes.dll
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\obj\Debug\net6.0\ref\Instrucoes.dll
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\obj\Debug\net6.0\Instrucoes.pdb
+C:\Users\dl755\OneDrive\Documentos\Aulas DIO C# e .NET\Instrucoes\obj\Debug\net6.0\Instrucoes.genruntimeconfig.cache
